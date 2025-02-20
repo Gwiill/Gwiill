@@ -1,4 +1,4 @@
-## Olá! Meu nome é Guilherme Wilson, sou estudante de Análise e Desenvolvimento de Sistemas
+## Olá! Meu nome é Guilherme Wilson.
 
 <div style="display: inline_block"><br>
   
