@@ -17,9 +17,9 @@
     <img align="center" alt="LinkedIn" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"/>
   </a>
   <a href="mailto:guilherme.wsdcosta@senacsp.edu.br" target="_blank">
-    <img align="center" alt="Gmail" height="40" width="40" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/gmail.svg"/>
+    <img align="center" alt="Gmail" height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png"/>
   </a>
   <a href="https://instagram.com/Gwiill" target="_blank">
-    <img align="center" alt="Instagram" height="40" width="40" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/instagram.svg"/>
+    <img align="center" alt="Instagram" height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png"/>
   </a>
 </div>
