@@ -1,25 +1,107 @@
-### Olá! Meu nome é Guilherme.
+<!-- README do Perfil - Guilherme Wilson (Gwiill) -->
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="HTML" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="JavaScript" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
-  <img align="center" alt="MySQL" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
-  <img align="center" alt="AWS" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg">
-  <img align="center" alt="Java" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-  <img align="center" alt="Spring" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg">
+<div align="center">
+
+# Olá! Eu sou o Guilherme Wilson 👋
+
+💻 Estudante de **Tecnologia em Análise e Desenvolvimento de Sistemas (TADS)** na **Universidade SENAC SP**  
+🚀 Construindo projetos e evoluindo em **Front-end**, **Back-end** e **Banco de Dados**
+
+<br/>
+
+<!-- Badges (opcional) -->
+<img src="https://img.shields.io/badge/Focus-Estudos%20%26%20Projetos-2ea44f?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Area-Desenvolvimento%20Web-5865F2?style=for-the-badge" />
+
 </div>
 
-##
+---
 
-<div> 
-  <a href="https://www.linkedin.com/in/guilherme-wilson-" target="_blank">
-    <img align="center" alt="LinkedIn" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"/>
-  </a>
-  <a href="mailto:guilherme.wsdcosta@senacsp.edu.br" target="_blank">
-    <img align="center" alt="Gmail" height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png"/>
-  </a>
-  <a href="https://instagram.com/Gwiill" target="_blank">
-    <img align="center" alt="Instagram" height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png"/>
-  </a>
+## 🧠 Sobre mim
+
+- 📚 Atualmente focado em consolidar base sólida em **Web** e **Back-end**
+- 🧩 Curto aprender na prática: projeto pequeno, entrega rápida e evolução constante
+- 🎯 Objetivo: ganhar experiência e construir um portfólio forte (e bonito 😄)
+
+---
+
+## 🛠️ Tecnologias e Ferramentas
+
+<div align="left">
+
+**Front-end**
+<br/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="38" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="38" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="38" />
+
+<br/><br/>
+
+**Back-end**
+<br/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="38" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="38" />
+
+<br/><br/>
+
+**Banco de Dados e Cloud**
+<br/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="38" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="38" />
+
 </div>
+
+---
+
+## 📌 Projetos em destaque
+
+> (Você pode ajustar os nomes/links conforme preferir)
+
+- 🔹 **HTML-CSS-Projetos** — exercícios e mini projetos front-end  
+  👉 https://github.com/Gwiill/HTML-CSS-Projetos
+
+- 🔹 **Machine-learning-Python** — introdução e estudos com libs (ex.: pandas/numpy)  
+  👉 https://github.com/Gwiill/Machine-learning-Python
+
+- 🔹 **boxModel** — prática de layout e CSS  
+  👉 https://github.com/Gwiill/boxModel
+
+---
+
+## 📊 GitHub Stats (opcional)
+
+<div align="center">
+
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=Gwiill&show_icons=true&hide_title=true" />
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gwiill&layout=compact" />
+
+</div>
+
+---
+
+## 📫 Onde me encontrar
+
+<div align="left">
+
+<a href="https://www.linkedin.com/in/guilherme-wilson-" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-Conectar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="mailto:SEUEMAILAQUI@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/Email-Contato-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+<a href="https://www.instagram.com/gwiill" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-Seguir-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+✨ *“Evolução constante, um commit por vez.”* ✨
+
+</div>
+
