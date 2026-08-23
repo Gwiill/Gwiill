@@ -14,5 +14,5 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="30">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" width="30">
-  <img src="https://mv.com.br" alt="MV Sistemas" width="150"/>
+  <img src="https://githubusercontent.com" alt="MV Sistemas" width="28" height="28" style="vertical-align: middle;"/>
 </p>
