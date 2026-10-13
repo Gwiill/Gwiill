@@ -12,8 +12,8 @@
   <!-- Cartão de Streak -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Gwiill&theme=synthwave&hide_border=true" alt="GitHub Streak" />
   
-  <!-- Cartão de Linguagens (Sem Jupyter Notebook) -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gwiill&theme=synthwave&layout=compact&hide_border=true&hide=jupyter%20notebook" alt="Top Languages" />
+  <!-- Cartão de Linguagens (com cache-bust para atualizar) -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gwiill&theme=synthwave&layout=compact&hide_border=true&hide=jupyter%20notebook&cache_seconds=1800" alt="Top Languages" />
 </p>
 
 <p>
