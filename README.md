@@ -6,6 +6,16 @@
 * 🌎 Estudando inglês para aprimorar minha carreira;
 * 🎮🤖 Geek
 
+  ### 📊 Estatísticas do GitHub
+
+<p align="center">
+  <!-- Cartão de Sequência de Contribuições (Streak Stats) -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Gwiill&theme=synthwave&hide_border=true" alt="GitHub Streak" />
+  
+  <!-- Cartão de Linguagens Mais Utilizadas (Top Languages) -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gwiill&theme=synthwave&layout=compact&hide_border=true" alt="Top Languages" />
+</p>
+
 <p>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="30">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="30">
