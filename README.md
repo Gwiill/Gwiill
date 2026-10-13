@@ -10,10 +10,10 @@
 
 <p align="center">
   <!-- Cartão de Streak -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SEU_USUARIO&theme=synthwave&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Gwiill&theme=synthwave&hide_border=true" alt="GitHub Streak" />
   
   <!-- Cartão de Linguagens (Sem Jupyter Notebook) -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&theme=synthwave&layout=compact&hide_border=true&hide=jupyter%20notebook" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gwiill&theme=synthwave&layout=compact&hide_border=true&hide=jupyter%20notebook" alt="Top Languages" />
 </p>
 
 <p>
