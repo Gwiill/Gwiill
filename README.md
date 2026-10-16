@@ -1,6 +1,6 @@
 <table align="center" border="0">
   <tr>
-    <td align="center" valign="middle" width="20%">
+    <td align="center" valign="middle" width="30%">
       <img src="./Blade%20Runner%20Loop%20GIF.gif" width="100%" />
     </td>
     <td valign="middle" width="70%">
