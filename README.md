@@ -1,7 +1,7 @@
 ### Hi, I'm Guilherme — a Systems Analyst, Support Specialist & Cybersecurity :)
 <table align="center" border="0">
   <tr>
-    <td align="center" valign="middle" width="30%">
+    <td align="center" valign="middle" width="20%">
       <img src="./Blade_Runner_Loop_GIF.gif" width="100%" />
     </td>
     <td valign="middle" width="50%">
@@ -12,11 +12,11 @@
           <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Gwiill/Gwiill/output/github-contribution-grid-snake.svg" width="100%">
         </picture>
       </p>
-      <ul style="font-size: 13px; list-style-type: none; padding-left: 0;">
+      <ul style="font-size: 13px; ">
+    🎓 Formado em Análise e Desenvolvimento de Sistemas pelo SENAC; <br>
     💻 Atuo como Analista de Sistemas e Suporte na FFM/USP _ SP; <br>
-    🎓 Formado em Análise e Desenvolvimento de Sistemas pelo SENAC;</li> <br>
-    🛡️ Focando em estudos e certificações Cybersecurity/Google Professional Cloud Architect; </li> <br>
-    🏍️ 💨 Entusiasta -&gt; motos;</li> <br>
+    🛡️ Focando em estudos e certificações Cybersecurity/Google Professional Cloud Architect; <br>
+    🏍️ 💨 Entusiasta -&gt; motos; <br>
     🎮🤖 Geek.
   </ul>
 </td>
