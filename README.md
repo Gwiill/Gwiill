@@ -4,7 +4,7 @@
     <td align="center" valign="middle" width="30%">
       <img src="./Blade_Runner_Loop_GIF.gif" width="100%" />
     </td>
-    <td valign="middle" width="70%">
+    <td valign="middle" width="50%">
       <p align="center">
         <picture>
           <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Gwiill/Gwiill/output/github-contribution-grid-snake-dark.svg">
