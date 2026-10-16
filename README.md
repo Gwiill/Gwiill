@@ -13,11 +13,8 @@
         </picture>
       </p>
       <ul style="font-size: 13px; ">
-    🎓 Formado em Análise e Desenvolvimento de Sistemas pelo SENAC; <br>
-    💻 Atuo como Analista de Sistemas e Suporte na FFM/USP _ SP; <br>
-    🛡️ Focando em estudos e certificações Cybersecurity/Google Professional Cloud Architect; <br>
-    🏍️ 💨 Entusiasta -&gt; motos; <br>
-    🎮🤖 Geek.
+    <h6>🎓 Formado em Análise e Desenvolvimento de Sistemas pelo SENAC - 💻 Atuo como Analista de Sistemas e Suporte na FFM/USP _ SP - 🛡️ Focando em estudos e certificações Cybersecurity/Google Professional Cloud Architect - 🏍️ 💨 Entusiasta -&gt; motos - 🎮🤖 Geek.</h6>
+        
   </ul>
 </td>
     </td>
