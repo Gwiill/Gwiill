@@ -2,7 +2,7 @@
 <table align="center" border="0">
   <tr>
     <td align="center" valign="middle" width="20%">
-      <img src="./Blade_Runner_Loop_GIF.gif" width="100%" />
+      <img src="./Halloween_Loop_GIF.gif" width="100%" />
     </td>
     <td valign="middle" width="50%">
       <p align="center">
