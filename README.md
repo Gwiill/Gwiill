@@ -9,12 +9,10 @@
 ### 📊 Estatísticas do GitHub
 
 <p align="center">
-  <!-- Cartão de Streak -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Gwiill&theme=synthwave&hide_border=true" alt="GitHub Streak" />
-  
-  <!-- Cartão de Linguagens (com cache-bust para atualizar) -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gwiill&theme=synthwave&layout=compact&hide_border=true&hide=jupyter%20notebook&cache_seconds=1800" alt="Top Languages" />
+  <img src="https://demolab.com" alt="GitHub Streak" />
+  <img src="https://vercel.app" alt="Top Languages" />
 </p>
+
 
 <p>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="30">
