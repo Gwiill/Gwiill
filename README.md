@@ -13,7 +13,7 @@
         </picture>
       </p>
       <ul style="font-size: 13px; list-style-type: none; padding-left: 0;">
-    💻 Atuo como Analista de Sistemas e Suporte na FFM/USP _ centro de SP; <br>
+    💻 Atuo como Analista de Sistemas e Suporte na FFM/USP _ SP; <br>
     🎓 Formado em Análise e Desenvolvimento de Sistemas pelo SENAC;</li> <br>
     🛡️ Focando em estudos e certificações Cybersecurity/Google Professional Cloud Architect; </li> <br>
     🏍️ 💨 Entusiasta -&gt; motos;</li> <br>
