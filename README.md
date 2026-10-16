@@ -1,8 +1,8 @@
 ### Hi, I'm Guilherme — a Systems Analyst, Support Specialist & Cybersecurity :)
 <table align="center" border="0">
   <tr>
-    <td align="center" valign="middle" width="20%">
-      <img src="./Halloween_Loop_GIF.gif" width="100%" />
+    <td align="center" valign="top" width="22%">
+      <img src="./Halloween_Loop_GIF.gif" width="100%" style="max-width: 180px; height: auto;" />
     </td>
     <td valign="middle" width="50%">
       <p align="center">
