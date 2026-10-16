@@ -17,6 +17,7 @@ jobs:
     timeout-minutes: 5
 
     steps:
+      # A alteração foi feita aqui, removendo o "/svg-only"
       - name: generate-github-contribution-grid-snake
         uses: Platane/snk@v3
         with:
