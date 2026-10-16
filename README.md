@@ -6,12 +6,8 @@
 * 🌎 Estudando inglês para aprimorar minha carreira;
 * 🎮🤖 Geek
 
-### 📊 Estatísticas do GitHub
+[![Estatísticas do GitHub](https://vercel.app)](https://github.com/anuraghazra/github-readme-stats)
 
-<p align="center">
-  <img src="https://demolab.com" alt="GitHub Streak" />
-  <img src="https://vercel.app" alt="Top Languages" />
-</p>
 
 
 <p>
