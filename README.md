@@ -1,3 +1,5 @@
+<h2> Hi, I'm Guilherme Wilson — IT Support, Systems, and Cybersecurity Analyst :) </h2>
+
 <table align="center" border="0">
   <tr>
     <td align="center" valign="top" width="30%">
@@ -5,7 +7,6 @@
       <img src="./Blade_Runner_Loop_GIF.gif" width="100%" />
     </td>
     <td valign="top" width="70%">
-      <h3>Olá! Meu nome é Guilherme.</h3>
       <ul>
         <li>💻 Atuo como Analista de Sistemas e Suporte na FFM/USP _ centro de SP;</li>
         <li>🎓 Formado em Análise e Desenvolvimento de Sistemas pelo SENAC;</li>
@@ -16,10 +17,6 @@
     </td>
   </tr>
 </table>
-
-<br/>
-
-### 📊 Estatísticas do GitHub
 
 <table align="center" border="0">
   <tr>
