@@ -33,7 +33,7 @@
       <img height="160px" src="https://github-readme-stats.vercel.app/api?username=Gwiill&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true" />
     </td>
     <td>
-      <img height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gwiill&layout=compact&theme=dark&hide_border=true&hide=jupyter%20notebook,C" />
+      <img height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gwiill&layout=compact&theme=dark&hide_border=true&hide=jupyter%20notebook," />
     </td>
   </tr>
 </table>
