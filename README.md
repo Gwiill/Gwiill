@@ -29,10 +29,6 @@
     <td>
       <img height="160px" src="https://github-readme-streak-stats.herokuapp.com/?user=Gwiill&theme=dark&hide_border=true" />
     </td>
-    <td>
-      <img height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gwiill&layout=compact&theme=dark&hide_border=true&hide=jupyter%20notebook," />
-    </td>
-  </tr>
 </table>
 
 <p align="center">
